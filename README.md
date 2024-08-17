@@ -11,6 +11,7 @@
     **3.** create a [division level report](https://github.com/Yashu8720/Excel-Sales-Analytics/blob/main/division%20level%20report.pdf)
 
     **4.** extracting a [top and bottom five products](https://github.com/Yashu8720/Excel-Sales-Analytics/blob/main/top%20and%20bottom%20five.pdf)
+    and other sub reports also created
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -20,7 +21,6 @@
 
 
 ## Finance Report :
-
 - **Project objective:** 
 
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Yashu8720/Excel-Sales-Analytics/blob/main/p%26L%20reports%20for%203.pdf)_ & _[Months](https://github.com/Yashu8720/Excel-Sales-Analytics/blob/main/p%26l%20report%20of%20months.pdf) 
