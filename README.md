@@ -10,6 +10,8 @@
 
     **3.** create a [division level report](https://github.com/Yashu8720/Excel-Sales-Analytics/blob/main/division%20level%20report.pdf)
 
+    **4.** extracting a [top and bottom five products](https://github.com/Yashu8720/Excel-Sales-Analytics/blob/main/top%20and%20bottom%20five.pdf)
+
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
